@@ -29,7 +29,7 @@ against the Norovirus VP1 capsid protein (PDB: 6GVZ) using molecular docking.
 ## Project Status
 - [x] Phase 1 — Project understanding
 - [x] Phase 2 — Environment setup
-- [ ] Phase 3 — Protein preparation
+- [x] Phase 3 — Protein preparation
 - [ ] Phase 4 — Ligand preparation
 - [ ] Phase 5 — Binding site identification
 - [ ] Phase 6 — Docking execution
