@@ -1,0 +1,24 @@
+# AutoDock Vina Configuration File
+# Norovirus VP1 (6GVZ) Phytochemical Docking Study
+
+# Receptor
+receptor = data/protein/6GVZ_prepared.pdbqt
+
+# Grid box center — based on CHO co-crystallized ligand coordinates
+center_x = -9.586
+center_y = -53.924
+center_z = 16.226
+
+# Grid box dimensions (Angstroms)
+size_x = 25
+size_y = 25
+size_z = 25
+
+# Search exhaustiveness (8 = default, higher = more thorough but slower)
+exhaustiveness = 8
+
+# Number of binding poses to generate
+num_modes = 9
+
+# Energy range for poses to be reported (kcal/mol)
+energy_range = 3
