@@ -1,0 +1,24 @@
+DOCKING RESULTS SUMMARY
+Target: Norovirus VP1 P-domain (PDB: 6GVZ)
+Tool: AutoDock Vina v1.2.7
+Grid center: X=-9.586, Y=-53.924, Z=16.226
+Grid size: 25x25x25 Angstroms
+Exhaustiveness: 8
+
+BEST BINDING AFFINITIES (Mode 1, kcal/mol):
+================================================
+Rank 1: EGCG           -7.947 kcal/mol
+Rank 2: Cyclocommunol  -7.577 kcal/mol
+Rank 3: Quercetin      -7.032 kcal/mol
+Rank 4: Curcumin       -7.028 kcal/mol
+
+FULL POSE DATA:
+Curcumin:      -7.028, -6.965, -6.672, -6.522, -6.436, -6.37, -6.229, -6.124, -6.1
+Quercetin:     -7.032, -6.95,  -6.678, -6.505, -6.358, -6.298, -6.283, -6.031, -5.989
+EGCG:          -7.947, -7.538, -7.471, -7.353, -7.293, -7.284, -7.147, -7.057, -7.047
+Cyclocommunol: -7.577, -7.289, -7.112, -7.066, -7.033, -6.992, -6.869, -6.788, -6.755
+
+INTERPRETATION:
+- EGCG shows strongest predicted binding
+- All four compounds show moderate-good affinity range (-7.0 to -8.0)
+- Results are in silico predictions requiring experimental validation
