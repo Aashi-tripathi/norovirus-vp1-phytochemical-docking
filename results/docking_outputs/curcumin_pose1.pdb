@@ -1,0 +1,52 @@
+REMARK VINA RESULT:    -7.028      0.000      0.000
+REMARK INTER + INTRA:         -12.498
+REMARK INTER:                 -10.726
+REMARK INTRA:                  -1.772
+REMARK UNBOUND:                -1.772
+REMARK  Name = C:\Users\Aash2\OneDrive\Desktop\norovirus-vp1-phytochemical-docking\data\ligands\raw\curcumin.pdb
+REMARK  12 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: O_1  and  C_12
+REMARK    2  A    between atoms: O_1  and  C_26
+REMARK    3  A    between atoms: O_2  and  C_13
+REMARK    4  A    between atoms: O_2  and  C_27
+REMARK    5  A    between atoms: O_3  and  C_18
+REMARK    6  A    between atoms: O_4  and  C_19
+REMARK    7  A    between atoms: C_7  and  C_16
+REMARK    8  A    between atoms: C_8  and  C_17
+REMARK    9  A    between atoms: C_9  and  C_20
+REMARK   10  A    between atoms: C_9  and  C_21
+REMARK   11  A    between atoms: C_20  and  C_24
+REMARK   12  A    between atoms: C_21  and  C_25
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ATOM      1  C   UNL     1     -11.377 -51.204   8.661  0.00  0.00
+ATOM      2  O   UNL     1     -13.483 -50.353   7.931  0.00  0.00
+ATOM      3  C   UNL     1     -12.644 -50.413   8.832  0.00  0.00
+ATOM      4  C   UNL     1     -13.545 -50.247  11.120  0.00  0.00
+ATOM      5  C   UNL     1     -12.837 -49.693  10.123  0.00  0.00
+ATOM      6  C   UNL     1     -13.778 -49.598  12.422  0.00  0.00
+ATOM      7  C   UNL     1     -14.992 -49.833  13.095  0.00  0.00
+ATOM      8  C   UNL     1     -15.244 -49.237  14.333  0.00  0.00
+ATOM      9  C   UNL     1     -12.806 -48.788  13.031  0.00  0.00
+ATOM     10  C   UNL     1     -14.266 -48.414  14.899  0.00  0.00
+ATOM     11  C   UNL     1     -13.053 -48.190  14.266  0.00  0.00
+ATOM     12  O   UNL     1     -16.384 -49.372  15.084  0.00  0.00
+ATOM     13  C   UNL     1     -17.624 -49.207  14.407  0.00  0.00
+ATOM     14  O   UNL     1     -14.486 -47.807  16.105  0.00  0.00
+ATOM     15  H   UNL     1     -14.052 -48.386  16.761  0.00  0.00
+ATOM     16  O   UNL     1      -9.464 -49.915   9.265  0.00  0.00
+ATOM     17  C   UNL     1     -10.279 -50.778   9.595  0.00  0.00
+ATOM     18  C   UNL     1      -9.817 -50.728  12.057  0.00  0.00
+ATOM     19  C   UNL     1     -10.148 -51.394  10.942  0.00  0.00
+ATOM     20  C   UNL     1      -9.709 -51.373  13.377  0.00  0.00
+ATOM     21  C   UNL     1     -10.887 -51.676  14.085  0.00  0.00
+ATOM     22  C   UNL     1     -10.825 -52.320  15.324  0.00  0.00
+ATOM     23  C   UNL     1      -8.470 -51.752  13.918  0.00  0.00
+ATOM     24  C   UNL     1      -9.573 -52.666  15.843  0.00  0.00
+ATOM     25  C   UNL     1      -8.401 -52.390  15.155  0.00  0.00
+ATOM     26  O   UNL     1     -11.892 -52.666  16.113  0.00  0.00
+ATOM     27  C   UNL     1     -13.088 -51.914  15.934  0.00  0.00
+ATOM     28  O   UNL     1      -9.473 -53.296  17.053  0.00  0.00
+ATOM     29  H   UNL     1      -8.858 -54.041  16.899  0.00  0.00
+END
