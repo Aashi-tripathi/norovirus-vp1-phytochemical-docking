@@ -89,3 +89,26 @@ against the Norovirus VP1 capsid protein (PDB: 6GVZ) using molecular docking.
   to PDBQT using Open Babel with Gasteiger partial charges.
 - Binding site: Defined using coordinates of co-crystallized ligand 
   CHO (X=-9.586, Y=-53.924, Z=16.226) as grid box center.
+
+  ## Results Summary
+
+### Docking Results
+| Compound | Binding Affinity (kcal/mol) | H-bonds | Key Residues |
+|----------|---------------------------|---------|--------------|
+| EGCG | -7.947 | 2 | THR370, ALA353 |
+| Cyclocommunol | -7.577 | 1 (2.3Å) | ALA353 |
+| Quercetin | -7.032 | 1 (2.8Å) | GLN300 |
+| Curcumin | -7.028 | 1 (2.1Å) | ASN391 |
+
+### Drug-likeness Summary
+| Compound | Lipinski | GI Absorption | Bioavailability |
+|----------|----------|---------------|-----------------|
+| Quercetin | 0 violations | High | 0.55 |
+| Curcumin | 0 violations | High | 0.55 |
+| EGCG | 2 violations | Low | 0.17 |
+| Cyclocommunol | 0 violations | High | 0.55 |
+
+### Overall Recommendation
+Cyclocommunol shows the best balance of predicted binding 
+affinity and drug-likeness and is recommended for 
+experimental validation.
