@@ -37,7 +37,7 @@ against the Norovirus VP1 capsid protein (PDB: 6GVZ) using molecular docking.
 - [x] Phase 7 — Visualization
 - [x] Phase 8 — Drug-likeness analysis
 - [x] Phase 9 — Results interpretation
-- [ ] Phase 10 — Documentation
+- [x] Phase 10 — Documentation
 
 ## Repository Structure
 \```
